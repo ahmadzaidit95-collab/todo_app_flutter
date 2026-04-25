@@ -18,4 +18,4 @@ A simple mobile app built using Flutter to manage daily tasks.
 
 
 ## 📌 Author
-Ahmed
+Ahmed Zaid
